@@ -1,0 +1,20 @@
+dataset_test.csv
+
+GREEDY ALGORITHM
+Total cost : 498.0 $
+Max profit : 97.48000000000002 $
+Purchased stocks : ['Action-10', 'Action-6', 'Action-13', 'Action-19', 'Action-4', 'Action-20', 'Action-11', 'Action-5', 'Action-18', 'Action-17', 'Action-16', 'Action-14']
+Time of excecution : 0.001001119613647461 secondes.
+
+
+DYNAMIC ALGORITHM
+Total cost : 498.0 $
+Max benefit : 99.08000000000001 $
+Purchased stocks : ['Action-20', 'Action-19', 'Action-18', 'Action-13', 'Action-11', 'Action-10', 'Action-8', 'Action-6', 'Action-5', 'Action-4']
+Time of excecution : 0.011000394821166992 secondes.
+
+FORCE BRUTE ALGORITHM
+Total cost : 498.0 $
+Max benefit : 99.08000000000001 $
+Purchased stocks : ['Action-20', 'Action-6', 'Action-4', 'Action-5', 'Action-10', 'Action-13', 'Action-11', 'Action-19', 'Action-8', 'Action-18']
+Time of excecution : 8.38699460029602 secondes.

@@ -1,0 +1,22 @@
+dataset2.csv 
+
+GREEDY ALGORITHM
+Total cost : 499.9800000000001 $
+Max profit : 197.768345 $
+Purchased stocks : ['Share-PATS', 'Share-JWGF', 'Share-ALIY', 'Share-PLLK', 'Share-NDKR', 'Share-FWBE', 'Share-LFXB', 'Share-ZOFA', 'Share-ANFX', 'Share-FAPS', 'Share-LXZU', 'Share-XQII', 'Share-ECAQ', 'Share-JGTW', 'Share-IXCI', 'Share-DWSK', 'Share-ROOM', 'Share-VCXT', 'Share-YFVZ', 'Share-OCKK', 'Share-JMLZ', 'Share-DYVD']
+Time of excecution : 0.00799870491027832 secondes.
+
+
+DYNAMIC ALGORITHM
+Total cost : 488.83000000000004 $
+Max benefit : 202.53587599999997 $
+Purchased stocks : ['Share-PATS', 'Share-ALIY', 'Share-LKSD', 'Share-DYVD', 'Share-FCHD', 'Share-XQII', 'Share-LFXB', 'Share-FWBE', 'Share-PLLK', 'Share-YFVZ', 'Share-ZKSN', 'Share-ZOFA', 'Share-IXCI', 'Share-OCKK', 'Share-ECAQ', 'Share-FAPS', 'Share-NDKR', 'Share-ANFX', 'Share-BMHD', 'Share-IJFT', 'Share-JWGF', 'Share-MEQV', 'Share-KPBW', 'Share-LAIC']
+Time of excecution : 0.3140220642089844 secondes.
+
+FORCE BRUTE ALGORITHM
+**ATTENTION il s'agit du résultat des 20 premieres actions triées par rapport à leur bénéfice****
+Total cost : 499.54 $
+Max benefit : 188.94903400000004 $
+Purchased stocks : ['Share-JWGF', 'Share-MBQU', 'Share-QEVK', 'Share-DLNE', 'Share-IJFT', 'Share-ANFX', 'Share-OPBR', 'Share-VWZM', 'Share-QLWT', 'Share-ENZZ', 'Share-SFQC', 'Share-JGTW']
+Time of excecution : 9.18468976020813 secondes.
+

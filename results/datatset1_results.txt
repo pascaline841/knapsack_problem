@@ -1,0 +1,21 @@
+dataset1.csv
+
+GREEDY ALGORITHM
+Total cost : 499.94000000000005 $
+Max profit : 198.507805 $
+Purchased stocks : ['Share-XJMO', 'Share-MTLR', 'Share-KMTG', 'Share-GTQK', 'Share-LRBZ', 'Share-WPLI', 'Share-GIAJ', 'Share-GHIZ', 'Share-IFCP', 'Share-ZSDE', 'Share-FKJW', 'Share-NHWA', 'Share-LPDM', 'Share-QQTU', 'Share-USSR', 'Share-EMOV', 'Share-LGWG', 'Share-SKKC', 'Share-QLMK', 'Share-UEZB', 'Share-CBNY', 'Share-CGJM', 'Share-EVUW', 'Share-FHZN', 'Share-MLGM']      
+Time of excecution : 0.006001710891723633 secondes.
+
+
+DYNAMIC ALGORITHM
+Total cost : 484.9499999999999 $
+Max benefit : 204.93905400000008 $
+Purchased stocks : ['Share-GTQK', 'Share-KXOH', 'Share-ZWPI', 'Share-ZSDE', 'Share-MLGM', 'Share-DBUJ', 'Share-KGQI', 'Share-STKT', 'Share-IQMC', 'Share-CYYC', 'Share-QSPX', 'Share-HITN', 'Share-FKJR', 'Share-CBNY', 'Share-CFOZ', 'Share-GIAJ', 'Share-RUFN', 'Share-MTLR', 'Share-SNKS', 'Share-YPGY', 'Share-QLMK', 'Share-CUSU', 'Share-KFOG', 'Share-UEZE', 'Share-KMTG', 'Share-UEZB', 'Share-SKKC', 'Share-DXOW', 'Share-USSR', 'Share-KZBL', 'Share-IFCP', 'Share-QQGZ', 'Share-LRBZ', 'Share-WPLI', 'Share-LSZT', 'Share-EVUW', 'Share-BXTP', 'Share-PBXL', 'Share-ZNKU', 'Share-EMOV']
+Time of excecution : 0.6070687770843506 secondes.
+
+FORCE BRUTE ALGORITHM
+**ATTENTION il s'agit du résultat des 20 premieres actions triées par rapport à leur bénéfice****
+Total cost : 498.76 $
+Max benefit : 196.61119200000002 $
+Purchased stocks : ['Share-GRUT']
+Time of excecution : 9.054464340209961 secondes.
