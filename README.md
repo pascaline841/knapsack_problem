@@ -22,7 +22,7 @@ Beta version of application that will help you find the best combination of stoc
 ## INSTALLATION 
 Start by cloning the  project
 ```
-git clone https://github.com/pascaline841/knapsack_problem
+git clone https://github.com/pascaline841/p07
 ```
 ## LAUNCH 
 
