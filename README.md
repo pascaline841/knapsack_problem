@@ -1,6 +1,4 @@
-<h1 align="center">Algo Invest&Trade -  OpenClassRooms Project 07 </h1>
-<br>
-Ce script Python est le 7e projet réalisé dans le cadre d'une formation chez OpenClassrooms.
+<h1 align="center">Algo Invest&Trade</h1>
 
 ## OVERVIEW
 Beta version of application that will help you find the best combination of stocks to buy in order to have the best profit while respecting a portfolio (knapsack problem).
@@ -22,7 +20,7 @@ Beta version of application that will help you find the best combination of stoc
 ## INSTALLATION 
 Start by cloning the  project
 ```
-git clone https://github.com/pascaline841/p07
+git clone https://github.com/pascaline841/python_p07
 ```
 ## LAUNCH 
 
